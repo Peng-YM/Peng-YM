@@ -1,6 +1,15 @@
-### Hi there 👋
+<a href="https://github.com/Peng-YM/QuanX">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Peng-YM&repo=QuanX" />
+</a>
+<a href="https://github.com/Peng-YM/ScriptConverter">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Peng-YM&repo=ScriptConverter" />
+</a>
+
+
+[![Peng-YM's github stats](https://github-readme-stats.vercel.app/api?username=Peng-YM&show_icons=true)](https://github.com/Peng-YM)
 
 <!--
+### Hi there 👋
 **Peng-YM/Peng-YM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
