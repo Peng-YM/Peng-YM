@@ -1,11 +1,3 @@
-<a href="https://github.com/Peng-YM/QuanX">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Peng-YM&repo=QuanX" />
-</a>
-<a href="https://github.com/Peng-YM/ScriptConverter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Peng-YM&repo=ScriptConverter" />
-</a>
-
-
 [![Peng-YM's github stats](https://github-readme-stats.vercel.app/api?username=Peng-YM&show_icons=true)](https://github.com/Peng-YM)
 
 <!--
