@@ -1,4 +1,4 @@
-[![Peng-YM's github stats](https://github-readme-stats.vercel.app/api?username=Peng-YM&show_icons=true)](https://github.com/Peng-YM)
+[![Peng-YM's github stats](https://github-readme-stats.vercel.app/api?username=Peng-YM&show_icons=true&include_all_commit=true&hide_border=true)](https://github.com/Peng-YM)
 
 
 
